@@ -24,11 +24,6 @@ const Wrapper = styled.form`
     max-width:80%;
     border-radius: 10px;
 `
-const EditMain = styled.div`
-    display: flex;
-    flex-direction: column;
-    gap:20px;
-`
 const Title = styled.div`
     font-size: 20px;
     font-weight: 700;

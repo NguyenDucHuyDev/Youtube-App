@@ -13,8 +13,6 @@ import MicNoneIcon from "@mui/icons-material/MicNone";
 import VoiceChatOutlinedIcon from "@mui/icons-material/VoiceChatOutlined";
 import NotificationsOutlinedIcon from "@mui/icons-material/NotificationsOutlined";
 import avatarDefault from "../../assets/image/avatar.png";
-import { serverAPI } from "../../utils/axios" 
-import { current } from "@reduxjs/toolkit";
 
 // start code css internal
 const Styles = {
